@@ -1,2 +1,2 @@
-Hosted Link:calculator-zdz1-84c2qtqv4-surekaelango.vercel.app
+Hosted Link:https://vercel.com/surekaelango/calculator-zdz1
 Repo Link:https://github.com/Surekaelango/calculator
